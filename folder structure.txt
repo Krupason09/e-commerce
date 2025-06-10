@@ -1,0 +1,6 @@
+includes/
+pages/
+pages/category/
+images/
+images/products/
+sql/
